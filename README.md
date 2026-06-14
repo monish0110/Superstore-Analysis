@@ -63,26 +63,6 @@ Dashboard includes:
 * Some sub-categories consistently generated losses.
 * Sales and profit showed an overall upward trend over the years.
 
-## Project Structure
-
-SUPERSTORE SALES ANALYSIS/
-│
-├── data/
-│   ├── superstore.csv
-│   └── cleaned_superstore.csv
-│
-├── notebooks/
-│   ├── main.ipynb
-│   └── EDA.ipynb
-│
-├── dashboard/
-│   └── superstore_dashboard.pbix
-│
-├── screenshots/
-│   ├── dashboard.png
-│   └── relationship between discount and profit.png
-│
-└── README.md
 
 ## What I Learned
 
